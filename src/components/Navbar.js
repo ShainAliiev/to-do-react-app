@@ -2,8 +2,13 @@ const Navbar = () => {
   return (
     <nav>
       <h1>
-        Product App
+        Staff App
       </h1>
+
+      <ul>
+        <li>Home</li>
+        <li>List</li>
+      </ul>
     </nav>
   )
 }
